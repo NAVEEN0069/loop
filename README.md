@@ -7,6 +7,6 @@ and it breaks the given condition is true. </p>
       <li>Execute the file in home directory </li>
       <li>Using ./loop_script.sh command</li>
       <li>Then it asks the value </li>
-      <li>After giving the value, it dispaly the output</li>
+      <li>After giving the value, it dispaly the output.</li>
   </ul></li>
 </ol>
